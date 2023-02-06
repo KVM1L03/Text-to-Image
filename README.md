@@ -1,5 +1,5 @@
 # Text-to-Image
-React Native app  which converts text into image using OpenAi API.!
+React Native app  which converts text into image using OpenAi API !
 
 How app works: 
 
